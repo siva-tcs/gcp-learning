@@ -1,6 +1,6 @@
 https://github.com/in28minutes/course-material/blob/main/09-google-certified-associate-cloud-engineer/downloads.md
 https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/?referralCode=64295CD392595A792850
-https://tcsglobal.udemy.com/course/google-cloud-certification-associate-cloud-engineer/learn/lecture/25121836#overview
+
 https://github.com/in28minutes/course-material/blob/main/09-google-certified-associate-cloud-engineer/downloads.md
 
 common commands in vm linux for apache sample install
